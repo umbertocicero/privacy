@@ -20,7 +20,7 @@ All statistics are made Realtime and not stored.
 
 ## Permissions
 
-Cocktail Twist asks for several permissions. The current set of permissions that are requested is:
+This app asks for several permissions. The current set of permissions that are requested is:
 
 - android.permission.CALL_PHONE
 - android.permission.INTERNET
