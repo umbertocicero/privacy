@@ -48,9 +48,9 @@ However, non-personally identifiable visitor information may be provided to othe
 
 ## Google
 
-Google�s advertising requirements can be summed up by Google�s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 We use Google AdSense / AdMob Advertising in this app.
-Google, as a third party vendor, uses cookies to serve ads in app. Google�s use of the DART cookie enables it to serve ads to our users based on their visit to this app and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads in app. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to this app and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 To understand how Google uses data when you use this app, please see more at http://www.google.com/intl/en/policies/privacy/partners/
 
 
@@ -70,7 +70,7 @@ By emailing us.
 
 ## COPPA (Children Online Privacy Protection Act)
 
-When it comes to the collection of personal information from children under 13, the Children�s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation�s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children�s privacy and safety online.
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 We do not specifically market to children under 13.
 
 ## Contact
