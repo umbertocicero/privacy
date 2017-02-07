@@ -59,7 +59,7 @@ On our Privacy Policy Page.
 Users are able to change their personal information:
 By emailing us.
 
-### COPPA (Children Online Privacy Protection Act)
+## COPPA (Children Online Privacy Protection Act)
 
 When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 We do not specifically market to children under 13.
