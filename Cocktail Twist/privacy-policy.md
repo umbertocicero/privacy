@@ -38,12 +38,6 @@ Cocktail Twist asks for several permissions. The current set of permissions that
 - android.permission.VIBRATE to improve user experience
 - com.android.vending.BILLING In-app Billing on Google Play. Examples to remove ADS and other.
 
-android.permission.INTERNET allows access the Internet. Examples of programs that use this permission are rcp, telnet, ssh, and ftp.
-WRITE_EXTERNAL_STORAGE allows writing to the SD card. Used by cp, mv, and any tool that writes files.
-ACCESS_SUPERUSER - this is a special permission, see "Access Superuser" below.
-WAKE_LOCK allows keeping the screen and/or CPU turned on. This is controlled using the "Take Wake Lock" menu items. This is helpful for people trying to run long-duration commands such as compilers.
-
-
 ## Third Party Disclosure
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. 
