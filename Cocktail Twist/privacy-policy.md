@@ -28,6 +28,21 @@ We use your Personal Information mainly to provide our Services and administer y
 - We store only the sha256 of yor email address, then completely anonymous
 - We do not store your other personal information.
 
+## Permissions
+
+Cocktail Twist asks for several permissions. The current set of permissions that are requested is:
+
+- android.permission.ACCESS_NETWORK_STATE Allows applications to access information about networks.
+- android.permission.GET_ACCOUNTS to improve my services
+- android.permission.INTERNET allows access the Internet. Examples of ADS or share a Cocktail.
+- android.permission.VIBRATE to improve user experience
+- com.android.vending.BILLING In-app Billing on Google Play. Examples to remove ADS and other.
+
+android.permission.INTERNET allows access the Internet. Examples of programs that use this permission are rcp, telnet, ssh, and ftp.
+WRITE_EXTERNAL_STORAGE allows writing to the SD card. Used by cp, mv, and any tool that writes files.
+ACCESS_SUPERUSER - this is a special permission, see "Access Superuser" below.
+WAKE_LOCK allows keeping the screen and/or CPU turned on. This is controlled using the "Take Wake Lock" menu items. This is helpful for people trying to run long-duration commands such as compilers.
+
 
 ## Third Party Disclosure
 
