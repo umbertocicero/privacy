@@ -42,7 +42,7 @@ Cocktail Twist asks for several permissions. The current set of permissions that
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. 
 This does not include website hosting partners and other parties who assist us in operating our websites and apps, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. 
-We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others� rights, property, or safety.
+We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 
@@ -56,12 +56,13 @@ To understand how Google uses data when you use this app, please see more at htt
 
 ## California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law�s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. � See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. 
+See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 According to CalOPPA we agree to the following:
 Users can use our app anonymously.
 Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-Our Privacy Policy link includes the word �Privacy�, and can be easily be found on the page specified above.
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
 Users will be notified of any privacy policy changes:
 On our Privacy Policy Page.
 
